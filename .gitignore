@@ -1,3 +1,5 @@
 mydb.db
 venv/
 maindb.db
+pandas.db
+__pycache__/
